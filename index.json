@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "TypedI/laravel-commerce": {
+            "url": "https://github.com/TypedI/locale.git"
+        }
+    }
+}
